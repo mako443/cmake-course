@@ -1,0 +1,1 @@
+void print_result(float result_add, float result_div);
